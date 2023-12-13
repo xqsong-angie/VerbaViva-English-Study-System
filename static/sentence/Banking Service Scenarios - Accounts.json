@@ -1,0 +1,207 @@
+[
+    {
+        "word": "Account",
+        "meaning": "n. 账户；账目，账单",
+        "sentence": "Opening a bank account is the first step to managing your finances securely."
+    },
+    {
+        "word": "Saving Account",
+        "meaning": "储蓄账户",
+        "sentence": "A saving account is ideal for individuals looking to accumulate funds over time while earning interest."
+    },
+    {
+        "word": "Current Account",
+        "meaning": "活期存款帐户",
+        "sentence": "A current account provides easy access to funds for day-to-day transactions without restrictions on withdrawals."
+    },
+    {
+        "word": "Deposit Account",
+        "meaning": "定期存款帐户",
+        "sentence": "A deposit account offers higher interest rates with the condition that funds remain deposited for a fixed term."
+    },
+    {
+        "word": "Student Account",
+        "meaning": "学生账户",
+        "sentence": "The student account caters specifically to the financial needs of students, often with special concessions and low fees."
+    },
+    {
+        "word": "Joint Account",
+        "meaning": "联合帐户",
+        "sentence": "A joint account allows two or more individuals to manage shared finances, providing equal access and responsibility."
+    },
+    {
+        "word": "Chequebook",
+        "meaning": "n. 支票本",
+        "sentence": "The chequebook provides a convenient way to make payments, offering a record of transactions."
+    },
+    {
+        "word": "Traveller's Cheque",
+        "meaning": "旅行支票",
+        "sentence": "Traveller's cheques are a secure form of currency for those traveling abroad, easily replaceable if lost or stolen."
+    },
+    {
+        "word": "Debit Card",
+        "meaning": "借记卡",
+        "sentence": "A debit card allows direct access to funds in your account for purchases and ATM withdrawals."
+    },
+    {
+        "word": "Credit Card",
+        "meaning": "信用卡",
+        "sentence": "Credit cards provide a line of credit for purchases, with the option to pay the balance over time."
+    },
+    {
+        "word": "Master Card",
+        "meaning": "万事达卡",
+        "sentence": "Master Card is a widely accepted credit card brand, offering various benefits and rewards."
+    },
+    {
+        "word": "Visa Card",
+        "meaning": "维萨卡",
+        "sentence": "Visa Card is another popular credit card brand known for its global acceptance and security features."
+    },
+    {
+        "word": "Open a Bank Account",
+        "meaning": "开银行账户",
+        "sentence": "It's essential to open a bank account to manage your financial transactions efficiently."
+    },
+    {
+        "word": "Deposit",
+        "meaning": "n. 存款；押金；订金",
+        "sentence": "Making a regular deposit into your savings account helps build a financial cushion for the future."
+    },
+    {
+        "word": "Withdraw",
+        "meaning": "v. 提现",
+        "sentence": "You can withdraw cash from your account at ATMs or through the bank's counter for your convenience."
+    },
+    {
+        "word": "Bank Statement",
+        "meaning": "银行对账单",
+        "sentence": "Reviewing your bank statement regularly ensures accuracy and helps track your spending and income."
+    },
+    {
+        "word": "Interest Rate",
+        "meaning": "[金融] 利率",
+        "sentence": "The interest rate on a deposit account determines the earnings accrued over time."
+    },
+    {
+        "word": "Exchange Rate",
+        "meaning": "汇率；兑换率",
+        "sentence": "When traveling internationally, it's crucial to be aware of the current exchange rate for currency conversion."
+    },
+    {
+        "word": "ATM",
+        "meaning": "自动取款机",
+        "sentence": "ATMs provide a convenient way to withdraw cash, check balances, and perform other banking transactions."
+    },
+    {
+        "word": "Overdraft",
+        "meaning": "n. [金融] 透支； [金融] 透支额",
+        "sentence": "An overdraft allows an account holder to withdraw more money than is available in the account, up to a specified limit."
+    },
+    {
+        "word": "Loan",
+        "meaning": "n. 贷款；借款",
+        "sentence": "Taking out a loan from the bank can provide financial support for significant purchases or investments."
+    },
+    {
+        "word": "Mortgage",
+        "meaning": "n. 抵押",
+        "sentence": "A mortgage is a loan specifically for purchasing real estate, secured by the property itself."
+    },
+    {
+        "word": "Net Profit",
+        "meaning": "净利润",
+        "sentence": "Net profit represents the remaining earnings after deducting all expenses from the total revenue."
+    },
+    {
+        "word": "Gross",
+        "meaning": "n. 总额，总数",
+        "sentence": "Gross income includes all sources of earnings before deductions such as taxes and expenses."
+    },
+    {
+        "word": "Branch",
+        "meaning": "n. 分公司",
+        "sentence": "The bank has multiple branches across the city to provide convenient access to its services."
+    },
+    {
+        "word": "Eligible",
+        "meaning": "adj. 合格的，合适的；符合条件的",
+        "sentence": "To apply for a specific account, individuals must meet the eligible criteria outlined by the bank."
+    },
+    {
+        "word": "Individual Circumstance",
+        "meaning": "个人情况",
+        "sentence": "Banks often consider an individual's circumstance when offering customized financial solutions."
+    },
+    {
+        "word": "Special Concession",
+        "meaning": "特殊优惠",
+        "sentence": "Students and senior citizens may be eligible for special concessions on account fees and interest rates."
+    },
+    {
+        "word": "Money Order",
+        "meaning": "[金融] 邮政汇票；汇兑",
+        "sentence": "A money order is a secure form of payment, often used for transactions where personal checks may not be accepted."
+    },
+    {
+        "word": "Bonus",
+        "meaning": "n. 奖金；红利",
+        "sentence": "Some savings accounts offer a bonus interest rate for meeting specific deposit or withdrawal criteria."
+    },
+    {
+        "word": "Budget",
+        "meaning": "n. 预算，预算费",
+        "sentence": "Creating a budget helps individuals manage their expenses and savings effectively."
+    },
+    {
+        "word": "Within the Budget",
+        "meaning": "预算之内",
+        "sentence": "It's crucial to make financial decisions that fall within the budget to avoid unnecessary debt."
+    },
+    {
+        "word": "Budget Proposal",
+        "meaning": "[会计] 概算；预算草案",
+        "sentence": "Before implementing financial plans, organizations often present a budget proposal for approval."
+    },
+    {
+        "word": "Capital",
+        "meaning": "n. 首都，省会",
+        "sentence": "Capital in a financial context refers to the total wealth or assets owned by an individual or business."
+    },
+    {
+        "word": "Cash",
+        "meaning": "n. 现款，现金",
+        "sentence": "Cash transactions involve the use of physical currency, such as banknotes and coins."
+    },
+    {
+        "word": "Note",
+        "meaning": "n. 纸币",
+        "sentence": "Banknotes, commonly referred to as notes, are a form of legal tender issued by the government."
+    },
+    {
+        "word": "Coin",
+        "meaning": "n. 硬币",
+        "sentence": "Coins are metallic forms of currency with various denominations for daily transactions."
+    },
+    {
+        "word": "Charge",
+        "meaning": "n. 费用",
+        "sentence": "Banks may apply a charge for certain services or transactions, so it's essential to be aware of associated fees."
+    },
+    {
+        "word": "Commission",
+        "meaning": "n. 佣金",
+        "sentence": "Financial advisors or brokers may receive a commission as compensation for facilitating transactions."
+    },
+    {
+        "word": "Compensation",
+        "meaning": "n. 补偿；报酬",
+        "sentence": "In cases of financial loss or injury, individuals may seek compensation for damages incurred."
+    },
+    {
+        "word": "Cost",
+        "meaning": "n. 成本,费用，代价",
+        "sentence": "The cost of living includes expenses such as housing, utilities, and groceries."
+    }
+]

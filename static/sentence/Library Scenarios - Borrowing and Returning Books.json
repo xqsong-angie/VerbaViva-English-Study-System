@@ -1,0 +1,157 @@
+[
+    {
+        "word": "student card",
+        "meaning": "学生证",
+        "sentence": "The student card serves as official identification for students, granting them access to various campus facilities, including the library."
+    },
+    {
+        "word": "library card",
+        "meaning": "n. 借书证；图书证",
+        "sentence": "The library card is an essential tool for patrons, enabling them to borrow materials and access resources within the library's collection."
+    },
+    {
+        "word": "circulation desk",
+        "meaning": "借还书处；图书借还台",
+        "sentence": "The circulation desk is where patrons can borrow and return books, providing a central hub for managing library materials."
+    },
+    {
+        "word": "information desk",
+        "meaning": "服务台，问询处",
+        "sentence": "The information desk is a point of assistance for library users, offering guidance on various services, resources, and general inquiries."
+    },
+    {
+        "word": "interlibrary service",
+        "meaning": "图书馆互借服务",
+        "sentence": "Interlibrary services facilitate the borrowing of materials from other libraries, broadening the range of resources available to patrons."
+    },
+    {
+        "word": "librarian",
+        "meaning": "n. 图书馆员；图书管理员",
+        "sentence": "Librarians play a crucial role in assisting patrons, managing library resources, and providing information-related services."
+    },
+    {
+        "word": "borrow",
+        "meaning": "vt. 借；借用",
+        "sentence": "Patrons can borrow books and other materials from the library for a specified period, contributing to the circulation of resources."
+    },
+    {
+        "word": "lend",
+        "meaning": "借出",
+        "sentence": "Libraries lend materials to patrons, supporting the educational and recreational needs of the community."
+    },
+    {
+        "word": "return",
+        "meaning": "n. 返回；归还",
+        "sentence": "Returning borrowed materials promptly ensures their availability for other patrons and maintains the library's resource circulation."
+    },
+    {
+        "word": "loan period",
+        "meaning": "借书期限；租借期限",
+        "sentence": "The loan period specifies the duration for which patrons can borrow materials before they need to be returned."
+    },
+    {
+        "word": "closed reserve",
+        "meaning": "非外借书库 ; 只读不借;阅览室",
+        "sentence": "Closed reserve sections contain materials that are restricted to in-library use only, providing controlled access to high-demand resources."
+    },
+    {
+        "word": "code",
+        "meaning": "n. 代码，密码；编码",
+        "sentence": "Access codes or passwords may be required for certain library services, ensuring secure and authorized use."
+    },
+    {
+        "word": "bar code",
+        "meaning": "条形码",
+        "sentence": "Bar codes streamline the borrowing process, allowing efficient scanning and tracking of library materials."
+    },
+    {
+        "word": "available",
+        "meaning": "adj. 可用的，现成可使用的",
+        "sentence": "Materials listed as available are ready for patrons to borrow, highlighting the accessibility of resources."
+    },
+    {
+        "word": "in stock",
+        "meaning": "有存货；现有",
+        "sentence": "Items marked as \"in stock\" indicate that the library possesses physical copies of the material."
+    },
+    {
+        "word": "in the stacks",
+        "meaning": "在书库里",
+        "sentence": "Materials located \"in the stacks\" are on the library shelves, ready for patrons to browse and borrow."
+    },
+    {
+        "word": "out on loan",
+        "meaning": "借出的",
+        "sentence": "Items labeled as \"out on loan\" are currently borrowed by patrons and temporarily unavailable for others."
+    },
+    {
+        "word": "recall",
+        "meaning": "n. 召回；回忆；撤消",
+        "sentence": "The recall process allows the library to request the return of a borrowed item if needed by another patron."
+    },
+    {
+        "word": "reservation list",
+        "meaning": "预约单",
+        "sentence": "Patrons can place items on a reservation list to secure priority access to popular or high-demand materials."
+    },
+    {
+        "word": "reading list",
+        "meaning": "阅读书目；参考书目",
+        "sentence": "Instructors may provide reading lists to guide students toward relevant materials for their coursework."
+    },
+    {
+        "word": "prospectus",
+        "meaning": "学校简介",
+        "sentence": "The prospectus offers detailed information about the school's courses, facilities, and other essential features."
+    },
+    {
+        "word": "catalogue",
+        "meaning": "n. 目录；（美）大学情况一览",
+        "sentence": "The library catalogue provides a comprehensive list of available materials, aiding patrons in locating specific resources."
+    },
+    {
+        "word": "date of expiry",
+        "meaning": "终止日期",
+        "sentence": "The date of expiry indicates the end of a patron's eligibility or access to certain library services."
+    },
+    {
+        "word": "renew",
+        "meaning": "v. 续借",
+        "sentence": "Patrons can renew borrowed materials, extending the loan period if no other patrons have reserved the items."
+    },
+    {
+        "word": "due",
+        "meaning": "adj. 到期的",
+        "sentence": "Items are considered due when the specified loan period expires, prompting patrons to return or renew them."
+    },
+    {
+        "word": "overdue",
+        "meaning": "adj. 过期的；迟到的",
+        "sentence": "Overdue items are materials that have not been returned by the specified due date, potentially incurring fines."
+    },
+    {
+        "word": "pay fines",
+        "meaning": "交付罚金",
+        "sentence": "Patrons must pay fines for overdue materials, contributing to the fair use and circulation of library resources."
+    },
+    {
+        "word": "check out",
+        "meaning": "结账后离开",
+        "sentence": "After checking out materials, patrons can leave the library with borrowed items, enjoying access to valuable resources."
+    },
+    {
+        "word": "return in time",
+        "meaning": "及时归还",
+        "sentence": "Returning borrowed materials in a timely manner ensures their availability for other patrons and avoids overdue fines."
+    },
+    {
+        "word": "touch-screen information service",
+        "meaning": "触摸屏信息服务",
+        "sentence": "Touch-screen kiosks provide interactive information services, assisting patrons in accessing various resources and services."
+    },
+    {
+        "word": "call slip",
+        "meaning": "借书证",
+        "sentence": "A call slip serves as a patron's identification for borrowing materials, facilitating a smooth and secure borrowing process."
+    }
+]

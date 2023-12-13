@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Word list</title>
+  <link rel="stylesheet" type="text/css" href="learning_list.css">
+</head>
+<body>
+    <h2>Start your learning journey...</h2>
+  <div class="container" id="container">
+    <div class="left-column">
+      <div class="box">
+      </div>
+      <div class="box">
+      </div>
+      <div class="box">
+      </div>
+      <div class="box">
+      </div>
+      <div class="box">
+      </div>
+      <div class="box">
+      </div>
+      <div class="box">
+      </div>
+      <div class="box">
+      </div>
+      <div class="box">
+      </div>
+      <div class="box">
+      </div>
+    </div>
+    <div class="middle-column">
+      <div class="sentence-box">
+      </div>
+      <div class="sentence-box">
+      </div>
+      <div class="sentence-box">
+      </div>
+      <div class="sentence-box">
+      </div>
+      <div class="sentence-box">
+      </div>
+      <div class="sentence-box">
+      </div>
+      <div class="sentence-box">
+      </div>
+      <div class="sentence-box">
+      </div>
+      <div class="sentence-box">
+      </div>
+      <div class="sentence-box">
+      </div>
+    </div>
+    <div class="right-column">
+      <div class="checkbox-box">
+        <input type="checkbox" class="checkbox" id="checkbox1">
+        <label for="checkbox1"></label>
+      </div>
+      <div class="checkbox-box">
+        <input type="checkbox" class="checkbox" id="checkbox2">
+        <label for="checkbox2"></label>
+      </div>
+      <div class="checkbox-box">
+        <input type="checkbox" class="checkbox" id="checkbox3">
+        <label for="checkbox3"></label>
+      </div>
+      <div class="checkbox-box">
+        <input type="checkbox" class="checkbox" id="checkbox4">
+        <label for="checkbox4"></label>
+      </div>
+      <div class="checkbox-box">
+        <input type="checkbox" class="checkbox" id="checkbox5">
+        <label for="checkbox5"></label>
+      </div>
+      <div class="checkbox-box">
+        <input type="checkbox" class="checkbox" id="checkbox6">
+        <label for="checkbox6"></label>
+      </div>
+      <div class="checkbox-box">
+        <input type="checkbox" class="checkbox" id="checkbox7">
+        <label for="checkbox7"></label>
+      </div>
+      <div class="checkbox-box">
+        <input type="checkbox" class="checkbox" id="checkbox8">
+        <label for="checkbox8"></label>
+      </div>
+      <div class="checkbox-box">
+        <input type="checkbox" class="checkbox" id="checkbox9">
+        <label for="checkbox9"></label>
+      </div>
+      <div class="checkbox-box">
+        <input type="checkbox" class="checkbox" id="checkbox10">
+        <label for="checkbox10"></label>
+      </div>
+    </div>
+  </div>
+
+  <div class="rating-popup" id="ratingPopup">
+    <h3>Do you like the words?</h3>
+    <div id="errorMessage"></div>
+    <div class="rating-option">
+      <input type="radio" name="rating" value="1" id="rating1">
+      <label for="rating1">1</label>
+    </div>
+    <div class="rating-option">
+      <input type="radio" name="rating" value="2" id="rating2">
+      <label for="rating2">2</label>
+    </div>
+    <div class="rating-option">
+      <input type="radio" name="rating" value="3" id="rating3">
+      <label for="rating3">3</label>
+    </div>
+    <div class="rating-option">
+      <input type="radio" name="rating" value="4" id="rating4">
+      <label for="rating4">4</label>
+    </div>
+    <div class="rating-option">
+      <input type="radio" name="rating" value="5" id="rating5">
+      <label for="rating5">5</label>
+    </div>
+    <button class="rating-button" id="submitBtn">submit</button>
+  </div>
+  <script src="https://unpkg.com/xlsx/dist/xlsx.full.min.js"></script>
+  <script type="module" src="learning_list.js"></script>
+</body>
+</html>

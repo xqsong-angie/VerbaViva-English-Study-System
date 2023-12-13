@@ -1,0 +1,287 @@
+[
+    {
+        "word": "Facility",
+        "meaning": "n. 设施；设备",
+        "sentence": "The apartment complex boasts a fitness facility with state-of-the-art exercise equipment."
+    },
+    {
+        "word": "Attic",
+        "meaning": "n. 阁楼顶楼",
+        "sentence": "The attic was transformed into a cozy reading nook with a view of the neighborhood."
+    },
+    {
+        "word": "Loft",
+        "meaning": "n. 阁楼；顶楼",
+        "sentence": "The spacious loft apartment featured high ceilings and an open floor plan."
+    },
+    {
+        "word": "Balcony",
+        "meaning": "n. 阳台；包厢",
+        "sentence": "Enjoying morning coffee on the balcony became a daily ritual for the residents."
+    },
+    {
+        "word": "Basement",
+        "meaning": "n. 地下室；地窖",
+        "sentence": "The basement served as a multifunctional space, housing a home theater and a workout area."
+    },
+    {
+        "word": "Bathroom",
+        "meaning": "n. 浴室；厕所；盥洗室",
+        "sentence": "The modern bathroom is equipped with a shower, bathtub, and elegant fixtures."
+    },
+    {
+        "word": "Bedroom",
+        "meaning": "n. 卧室",
+        "sentence": "The spacious bedroom featured a comfortable bed and ample storage for clothing."
+    },
+    {
+        "word": "Cellar",
+        "meaning": "n. 地窖；酒窖；地下室",
+        "sentence": "The cellar was used for storing wine and as a cool retreat during hot summer days."
+    },
+    {
+        "word": "Corridor",
+        "meaning": "n. 走廊",
+        "sentence": "The well-lit corridor provided access to various rooms on the same floor."
+    },
+    {
+        "word": "Lobby",
+        "meaning": "n. 大厅；休息室；会客室；游说议员的团体",
+        "sentence": "The hotel lobby featured stylish furniture, creating a welcoming atmosphere for guests."
+    },
+    {
+        "word": "Porch",
+        "meaning": "n. 门廊；走廊",
+        "sentence": "The porch served as a charming entryway, adorned with potted plants and comfortable seating."
+    },
+    {
+        "word": "Foyer",
+        "meaning": "n. 门厅，休息室；大厅",
+        "sentence": "The grand foyer of the mansion was adorned with a crystal chandelier and elegant furnishings."
+    },
+    {
+        "word": "Courtyard",
+        "meaning": "n. 庭院，院子；天井",
+        "sentence": "The apartment complex had a peaceful courtyard with benches and lush greenery."
+    },
+    {
+        "word": "Dining Room",
+        "meaning": "餐厅",
+        "sentence": "The formal dining room was furnished with an elegant table and chairs for hosting dinner parties."
+    },
+    {
+        "word": "Elevator",
+        "meaning": "n. 电梯；升降机",
+        "sentence": "The high-rise building was equipped with a reliable elevator for residents' convenience."
+    },
+    {
+        "word": "Lift",
+        "meaning": "n. 电梯",
+        "sentence": "The lift in the building ensured easy access to all floors for residents with mobility challenges."
+    },
+    {
+        "word": "Escalator",
+        "meaning": "n. 自动扶梯；电动扶梯",
+        "sentence": "The shopping mall featured escalators for convenient access between different levels."
+    },
+    {
+        "word": "Fence",
+        "meaning": "n. 栅栏；围墙",
+        "sentence": "A wooden fence surrounded the backyard, providing privacy for outdoor activities."
+    },
+    {
+        "word": "Footbridge",
+        "meaning": "n. 人行桥，步行桥",
+        "sentence": "The charming footbridge over the stream added a picturesque touch to the garden."
+    },
+    {
+        "word": "Fountain",
+        "meaning": "n. 喷泉，泉水",
+        "sentence": "The central courtyard boasted a beautiful fountain as its focal point."
+    },
+    {
+        "word": "Garage",
+        "meaning": "n. 车库；汽车修理厂",
+        "sentence": "The spacious garage accommodated two cars and provided additional storage space."
+    },
+    {
+        "word": "Garden",
+        "meaning": "花园",
+        "sentence": "The well-maintained garden featured a variety of flowers, shrubs, and a winding stone pathway."
+    },
+    {
+        "word": "Lemon Tree",
+        "meaning": "柠檬树",
+        "sentence": "The backyard was adorned with a flourishing lemon tree, providing fresh fruit for the residents."
+    },
+    {
+        "word": "Kitchen",
+        "meaning": "厨房",
+        "sentence": "The modern kitchen was equipped with stainless steel appliances and ample counter space."
+    },
+    {
+        "word": "Oven",
+        "meaning": "n. 炉，灶；烤炉，烤",
+        "sentence": "The built-in oven made baking and cooking a breeze for the home chef."
+    },
+    {
+        "word": "Laundry Room",
+        "meaning": "洗衣房",
+        "sentence": "The laundry room featured a washer, dryer, and a folding area for added convenience."
+    },
+    {
+        "word": "Lounge",
+        "meaning": "n. 休息室",
+        "sentence": "The cozy lounge area was furnished with plush sofas and served as a communal space for residents."
+    },
+    {
+        "word": "Roof",
+        "meaning": "n. 屋顶",
+        "sentence": "The rooftop terrace provided stunning views of the city skyline."
+    },
+    {
+        "word": "Shower",
+        "meaning": "n. 淋浴",
+        "sentence": "The modern bathroom included a spacious shower with both rainfall and handheld options."
+    },
+    {
+        "word": "Bathtub",
+        "meaning": "n. 浴缸",
+        "sentence": "The luxurious bathtub was a relaxing retreat after a long day."
+    },
+    {
+        "word": "Curtain",
+        "meaning": "n. 窗帘",
+        "sentence": "The sheer curtains allowed natural light to filter into the living room, creating a bright and airy atmosphere."
+    },
+    {
+        "word": "Single Room",
+        "meaning": "n. 单人房",
+        "sentence": "The hotel offered comfortable single rooms for solo travelers."
+    },
+    {
+        "word": "Double Room",
+        "meaning": "双人房",
+        "sentence": "The bed and breakfast provided cozy double rooms for couples or friends traveling together."
+    },
+    {
+        "word": "Twin Room",
+        "meaning": "两张单人床的双人房",
+        "sentence": "The hotel suite featured a twin room configuration, perfect for siblings or friends."
+    },
+    {
+        "word": "Shared Room",
+        "meaning": "合用房屋",
+        "sentence": "The hostel offered budget-friendly shared rooms with communal facilities."
+    },
+    {
+        "word": "Storeroom",
+        "meaning": "n. 库房；储藏室",
+        "sentence": "The storeroom in the basement served as a place to store seasonal items and household supplies."
+    },
+    {
+        "word": "Storehouse",
+        "meaning": "n. 仓库，贮藏库",
+        "sentence": "The large storehouse on the property stored agricultural equipment and supplies."
+    },
+    {
+        "word": "Warehouse",
+        "meaning": "n. 仓库；货栈",
+        "sentence": "The industrial warehouse was used for storing inventory and shipping goods."
+    },
+    {
+        "word": "Study Room",
+        "meaning": "书房",
+        "sentence": "The spacious study room featured a large desk and bookshelves, providing a quiet space for focused work."
+    },
+    {
+        "word": "Swimming Pool",
+        "meaning": "游泳池",
+        "sentence": "The community complex had a sparkling swimming pool for residents to enjoy on hot summer days."
+    },
+    {
+        "word": "Paddling Pool",
+        "meaning": "幼儿用的浅游泳池",
+        "sentence": "The kiddie area included a paddling pool for young children to splash and play safely."
+    },
+    {
+        "word": "Toilet",
+        "meaning": "n. 厕所，盥洗室",
+        "sentence": "The guest toilet on the main floor was tastefully decorated with modern fixtures."
+    },
+    {
+        "word": "Rent",
+        "meaning": "n. 租金",
+        "sentence": "The monthly rent for the apartment included utilities and access to the building's amenities."
+    },
+    {
+        "word": "Rental Price",
+        "meaning": "租赁价格",
+        "sentence": "The rental price for the vacation cottage varied depending on the season and length of stay."
+    },
+    {
+        "word": "Bargain",
+        "meaning": "讨价还价",
+        "sentence": "Negotiating a bargain on the rent was possible for long-term tenants."
+    },
+    {
+        "word": "Maximum",
+        "meaning": "n. 极大，最大限度；最大量",
+        "sentence": "The maximum occupancy for the conference room was set at 50 people."
+    },
+    {
+        "word": "Minimum",
+        "meaning": "n. 最小值；最低限度",
+        "sentence": "The minimum rental period for the vacation home was one week."
+    },
+    {
+        "word": "Deposit",
+        "meaning": "n. 押金；订金；保证金",
+        "sentence": "The landlord required a security deposit to cover any potential damages during the lease period."
+    },
+    {
+        "word": "Contract",
+        "meaning": "n. 合同",
+        "sentence": "Signing a rental contract is a standard practice to clarify terms and conditions between landlords and tenants."
+    },
+    {
+        "word": "Agreement",
+        "meaning": "n. 协议；同意，一致",
+        "sentence": "An agreement was reached regarding the maintenance responsibilities between the building management and residents."
+    },
+    {
+        "word": "Bill",
+        "meaning": "n. [法]广告；账单;[金融] 票据；钞票；清单",
+        "sentence": "The monthly utility bill included charges for electricity, water, and gas."
+    },
+    {
+        "word": "Electricity",
+        "meaning": "n. 电力；电流",
+        "sentence": "The apartment was equipped with energy-efficient appliances to reduce electricity consumption."
+    },
+    {
+        "word": "Water",
+        "meaning": "n. ⽔",
+        "sentence": "Conserving water by fixing leaks and using water-saving appliances was encouraged in the building."
+    },
+    {
+        "word": "Gas",
+        "meaning": "n. 气体；[矿业] 瓦斯；汽油",
+        "sentence": "The kitchen stove and heating system were powered by natural gas for efficient energy use."
+    },
+    {
+        "word": "Heating",
+        "meaning": "n. [热] 加热；[建] 供暖；暖气设备",
+        "sentence": "The central heating system kept the entire building warm during the winter months."
+    },
+    {
+        "word": "Laundry Fee/Charge",
+        "meaning": "洗衣费",
+        "sentence": "Residents were informed of the laundry fee for using the communal laundry facilities."
+    },
+    {
+        "word": "Internet",
+        "meaning": "互联网",
+        "sentence": "High-speed internet access was included in the monthly rent for the apartment."
+    }
+]

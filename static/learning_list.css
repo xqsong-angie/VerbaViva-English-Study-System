@@ -1,0 +1,101 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #E0F2F1;
+  }
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  .left-column {
+    flex: 1;
+  }
+
+  .middle-column {
+    flex: 1;
+  }
+
+  .right-column {
+    flex: 1;
+  }
+
+  .box {
+    width: 200px;
+    height: 100px;
+    background-color: #B2DFDB;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+
+  .sentence-box {
+    width: 600px;
+    height: 100px;
+    background-color: #80CBC4;
+    margin-bottom: 10px;
+    margin-left:10px;
+    padding: 10px;
+  }
+
+  .checkbox-box {
+    width: 200px;
+    height: 100px;
+    margin-bottom: 10px;
+    padding: 10px;
+  }
+
+  .checkbox + label {
+    display: inline-block;
+    width: 15px;
+    height: 10px;
+    margin-right: 5px;
+    cursor: pointer;
+  }
+
+  .rating-popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #B2DFDB;
+    padding: 20px;
+    border-radius: 5px;
+    display: none;
+    height:auto;
+    width:200px;
+  }
+
+  .rating-popup h3{
+    white-space: nowrap;
+  }
+
+  .rating-option {
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  .rating-button {
+    background-color: #009688;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+
+  #errorMessage {
+    color:red;
+    white-space: nowrap;
+    text-indent: -10px;
+    margin-bottom:5px;
+}
+
+.checkbox{
+  width:24px;
+  height:24px;
+  margin-top:-8px;
+}

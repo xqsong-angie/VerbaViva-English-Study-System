@@ -1,0 +1,247 @@
+INFO:get_next:Info log information
+WARNING:get_next:Warning log info
+ERROR:get_next:Error log info
+CRITICAL:get_next:Critical log info
+INFO:get_next:Type of ratings_str: <class 'list'>
+INFO:get_next:Ratings_str: ['4', '4', '4', '4']
+ERROR:get_next:An error occurred: 'list' object has no attribute 'replace'
+INFO:get_next:Info log information
+WARNING:get_next:Warning log info
+ERROR:get_next:Error log info
+CRITICAL:get_next:Critical log info
+INFO:get_next:Type of ratings_str: <class 'list'>
+INFO:get_next:Ratings_str: ['5', '5', '5', '5']
+INFO:get_next:Username: <class 'NoneType'>
+ERROR:get_next:An error occurred: 'list' object has no attribute 'replace'
+INFO:get_next:Info log information
+WARNING:get_next:Warning log info
+ERROR:get_next:Error log info
+CRITICAL:get_next:Critical log info
+INFO:get_next:Type of ratings: <class 'list'>
+INFO:get_next:Ratings: ['3', '3', '3', '3']
+INFO:get_next:typeof username: <class 'NoneType'>
+INFO:get_next:Username: None
+ERROR:get_next:An error occurred: name 'ratings_str' is not defined
+INFO:get_next:Info log information
+WARNING:get_next:Warning log info
+ERROR:get_next:Error log info
+CRITICAL:get_next:Critical log info
+INFO:get_next:Info log information
+WARNING:get_next:Warning log info
+ERROR:get_next:Error log info
+CRITICAL:get_next:Critical log info
+INFO:get_next:Info log information
+WARNING:get_next:Warning log info
+ERROR:get_next:Error log info
+CRITICAL:get_next:Critical log info
+INFO:get_next:Type of ratings: <class 'list'>
+INFO:get_next:Ratings: ['4', '5', '4', '5']
+INFO:get_next:typeof username: <class 'str'>
+INFO:get_next:Username: user1
+INFO:get_next:Start Row: 2
+INFO:get_next:type of Start Row: <class 'int'>
+INFO:get_next:Info log information
+WARNING:get_next:Warning log info
+ERROR:get_next:Error log info
+CRITICAL:get_next:Critical log info
+INFO:get_next:Type of ratings: <class 'list'>
+INFO:get_next:Ratings: ['4', '5', '4', '5']
+INFO:get_next:typeof username: <class 'str'>
+INFO:get_next:Username: user1
+INFO:get_next:Start Row: 2
+INFO:get_next:type of Start Row: <class 'int'>
+INFO:get_next:Info log information
+WARNING:get_next:Warning log info
+ERROR:get_next:Error log info
+CRITICAL:get_next:Critical log info
+INFO:get_next:Type of ratings: <class 'list'>
+INFO:get_next:Ratings: ['3', '3', '3', '3']
+INFO:get_next:typeof username: <class 'str'>
+INFO:get_next:Username: user1
+INFO:get_next:Start Row: 2
+INFO:get_next:type of Start Row: <class 'int'>
+ERROR:get_next:Exception on /api/get_next [POST]
+Traceback (most recent call last):
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/AngieSong/mysite/get_next.py", line 34, in get_next
+    rating = int(request.json.get("ratings")[-1])
+TypeError: 'NoneType' object is not subscriptable
+ERROR:get_next:Exception on /api/get_next [POST]
+Traceback (most recent call last):
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3802, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas/_libs/index.pyx", line 138, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 165, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 5745, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 5753, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Accommodation%20Scenarios%20-%20Room.json'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/AngieSong/mysite/get_next.py", line 42, in get_next
+    target_row= list(df.loc[fileName])
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/pandas/core/indexing.py", line 1073, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/pandas/core/indexing.py", line 1312, in _getitem_axis
+    return self._get_label(key, axis=axis)
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/pandas/core/indexing.py", line 1260, in _get_label
+    return self.obj.xs(label, axis=axis)
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/pandas/core/generic.py", line 4056, in xs
+    loc = index.get_loc(key)
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3804, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Accommodation%20Scenarios%20-%20Room.json'
+ERROR:get_next:Exception on /api/get_next [POST]
+Traceback (most recent call last):
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3802, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "pandas/_libs/index.pyx", line 138, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 165, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 5745, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 5753, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Accommodation%20Scenarios%20-%20Room.json'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/AngieSong/mysite/get_next.py", line 42, in get_next
+    target_row= list(df.loc[fileName])
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/pandas/core/indexing.py", line 1073, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/pandas/core/indexing.py", line 1312, in _getitem_axis
+    return self._get_label(key, axis=axis)
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/pandas/core/indexing.py", line 1260, in _get_label
+    return self.obj.xs(label, axis=axis)
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/pandas/core/generic.py", line 4056, in xs
+    loc = index.get_loc(key)
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/pandas/core/indexes/base.py", line 3804, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Accommodation%20Scenarios%20-%20Room.json'
+INFO:get_next:Type of ratings: <class 'list'>
+INFO:get_next:Ratings: ['5', None, '4', None]
+INFO:get_next:typeof username: <class 'str'>
+INFO:get_next:Username: user15
+INFO:get_next:Start Row: 16
+INFO:get_next:type of Start Row: <class 'int'>
+ERROR:get_next:An error occurred: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+ERROR:get_next:Exception on /api/get_next [POST]
+Traceback (most recent call last):
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/AngieSong/mysite/get_next.py", line 34, in get_next
+    rating = int(request.json.get("ratings")[-1])
+TypeError: 'NoneType' object is not subscriptable
+ERROR:get_next:Exception on /api/get_next [POST]
+Traceback (most recent call last):
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/flask/app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/flask/app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/flask/app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/AngieSong/.virtualenvs/myvirtualenv/lib/python3.10/site-packages/flask/app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "/home/AngieSong/mysite/get_next.py", line 34, in get_next
+    rating = int(request.json.get("ratings")[-1])
+TypeError: 'NoneType' object is not subscriptable
+INFO:get_next:Info log information
+WARNING:get_next:Warning log info
+ERROR:get_next:Error log info
+CRITICAL:get_next:Critical log info
+INFO:get_next:Info log information
+WARNING:get_next:Warning log info
+ERROR:get_next:Error log info
+CRITICAL:get_next:Critical log info
+INFO:get_next:Info log information
+WARNING:get_next:Warning log info
+ERROR:get_next:Error log info
+CRITICAL:get_next:Critical log info
+INFO:get_next:Type of ratings: <class 'list'>
+INFO:get_next:Ratings: ['5', '5', '5', '5']
+INFO:get_next:typeof username: <class 'str'>
+INFO:get_next:Username: user1
+INFO:get_next:Start Row: 2
+INFO:get_next:type of Start Row: <class 'int'>
+INFO:get_next:Type of ratings: <class 'list'>
+INFO:get_next:Ratings: ['5', '4', '4', '2']
+INFO:get_next:typeof username: <class 'str'>
+INFO:get_next:Username: user22
+INFO:get_next:Start Row: 23
+INFO:get_next:type of Start Row: <class 'int'>
+INFO:get_next:Type of ratings: <class 'list'>
+INFO:get_next:Ratings: ['1', '1', '1', '1']
+INFO:get_next:typeof username: <class 'str'>
+INFO:get_next:Username: user22
+INFO:get_next:Start Row: 23
+INFO:get_next:type of Start Row: <class 'int'>
+INFO:get_next:Type of ratings: <class 'list'>
+INFO:get_next:Ratings: ['5', '3', '3', '5']
+INFO:get_next:typeof username: <class 'str'>
+INFO:get_next:Username: user22
+INFO:get_next:Start Row: 23
+INFO:get_next:type of Start Row: <class 'int'>
+INFO:get_next:Type of ratings: <class 'list'>
+INFO:get_next:Ratings: ['4', '3', '5', '4']
+INFO:get_next:typeof username: <class 'str'>
+INFO:get_next:Username: user18
+INFO:get_next:Start Row: 19
+INFO:get_next:type of Start Row: <class 'int'>
+INFO:get_next:Info log information
+WARNING:get_next:Warning log info
+ERROR:get_next:Error log info
+CRITICAL:get_next:Critical log info
+INFO:get_next:Type of ratings: <class 'list'>
+INFO:get_next:Ratings: ['5', '4', '5', '5']
+INFO:get_next:typeof username: <class 'str'>
+INFO:get_next:Username: user23
+INFO:get_next:Start Row: 24
+INFO:get_next:type of Start Row: <class 'int'>
+INFO:get_next:Type of ratings: <class 'list'>
+INFO:get_next:Ratings: ['3', '4', '3', '4']
+INFO:get_next:typeof username: <class 'str'>
+INFO:get_next:Username: user20
+INFO:get_next:Start Row: 21
+INFO:get_next:type of Start Row: <class 'int'>
+INFO:get_next:Type of ratings: <class 'list'>
+INFO:get_next:Ratings: ['3', '2', '4', '2']
+INFO:get_next:typeof username: <class 'str'>
+INFO:get_next:Username: user26
+INFO:get_next:Start Row: 27
+INFO:get_next:type of Start Row: <class 'int'>
+INFO:get_next:Type of ratings: <class 'list'>
+INFO:get_next:Ratings: ['4', '4', '4', '3']
+INFO:get_next:typeof username: <class 'str'>
+INFO:get_next:Username: user25
+INFO:get_next:Start Row: 26
+INFO:get_next:type of Start Row: <class 'int'>
+ERROR:root:OSError: write error

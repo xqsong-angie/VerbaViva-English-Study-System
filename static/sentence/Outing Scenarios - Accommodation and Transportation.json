@@ -1,0 +1,192 @@
+[
+    {
+        "word": "hotel",
+        "meaning": "n. 旅馆，饭店",
+        "sentence": "Staying in a hotel provides travelers with accommodation, amenities, and services during their journey."
+    },
+    {
+        "word": "motel",
+        "meaning": "n. 汽车旅馆",
+        "sentence": "A motel is a roadside accommodation option designed for travelers with parking spaces conveniently located near the rooms."
+    },
+    {
+        "word": "hostel",
+        "meaning": "n. 旅社，招待所",
+        "sentence": "Hostels offer budget-friendly accommodation, often featuring shared dormitories and communal spaces for travelers."
+    },
+    {
+        "word": "holiday house",
+        "meaning": "度假屋",
+        "sentence": "A holiday house provides a vacation retreat, typically rented for short stays, offering a home-like environment."
+    },
+    {
+        "word": "cottage",
+        "meaning": "n. 小屋；村舍",
+        "sentence": "A cottage is a small, cozy dwelling, often situated in a rural or scenic area, providing a peaceful retreat."
+    },
+    {
+        "word": "inn",
+        "meaning": "n. 客栈；旅馆",
+        "sentence": "An inn is a traditional lodging establishment offering accommodations, meals, and a warm, welcoming atmosphere."
+    },
+    {
+        "word": "cabin",
+        "meaning": "n. 小屋；客舱",
+        "sentence": "A cabin can refer to a small dwelling, such as a log cabin, or a compartment on a ship or aircraft."
+    },
+    {
+        "word": "lodge",
+        "meaning": "村舍，小屋；旅馆，旅",
+        "sentence": "A lodge can be a small house or a remote accommodation option, often associated with outdoor activities like hunting or skiing."
+    },
+    {
+        "word": "public transport",
+        "meaning": "公共交通",
+        "sentence": "Public transport includes modes of transportation accessible to the general public, such as buses, trains, and subways."
+    },
+    {
+        "word": "private transport",
+        "meaning": "私人交通",
+        "sentence": "Private transport refers to personal vehicles, like cars and motorcycles, used for individual or family travel."
+    },
+    {
+        "word": "automobile",
+        "meaning": "n. 汽车",
+        "sentence": "An automobile, commonly known as a car, is a four-wheeled motor vehicle used for transportation."
+    },
+    {
+        "word": "railway",
+        "meaning": "n.（英）铁路；轨道",
+        "sentence": "The railway is a network of tracks on which trains travel, providing an efficient means of transportation."
+    },
+    {
+        "word": "express train",
+        "meaning": "[铁路] 特别快车",
+        "sentence": "An express train is a high-speed train that makes fewer stops, allowing passengers to reach their destinations quickly."
+    },
+    {
+        "word": "boat",
+        "meaning": "n. 小船；轮船",
+        "sentence": "Boats are watercraft designed for navigation, ranging from small vessels to larger ships."
+    },
+    {
+        "word": "ferry",
+        "meaning": "n. 渡船；摆渡",
+        "sentence": "A ferry is a boat used to transport people and vehicles across bodies of water, such as rivers or seas."
+    },
+    {
+        "word": "coach",
+        "meaning": "n.旅客车厢；长途公车",
+        "sentence": "A coach is a long-distance bus designed for passenger travel, often offering comfort and amenities."
+    },
+    {
+        "word": "medium-sized bus",
+        "meaning": "中型客车",
+        "sentence": "A medium-sized bus provides transportation for a moderate number of passengers, smaller than a full-sized coach."
+    },
+    {
+        "word": "bus",
+        "meaning": "公共汽车",
+        "sentence": "Buses are public transportation vehicles with fixed routes, making stops to pick up and drop off passengers."
+    },
+    {
+        "word": "minibus",
+        "meaning": "n. 面包车（等于microbus）；小型公共汽车",
+        "sentence": "A minibus is a small bus or van designed to transport a limited number of passengers."
+    },
+    {
+        "word": "double-decker bus",
+        "meaning": "n. 双层巴士",
+        "sentence": "A double-decker bus has two levels of passenger seating, commonly seen in urban transportation systems."
+    },
+    {
+        "word": "underground",
+        "meaning": "n. 地下；地铁",
+        "sentence": "The underground, also known as the subway or metro, is an electric railway system operating beneath the ground."
+    },
+    {
+        "word": "subway",
+        "meaning": "n. 地铁；地道",
+        "sentence": "The subway, or metro, is an underground railway system providing efficient urban transportation."
+    },
+    {
+        "word": "metro",
+        "meaning": "n. 地铁",
+        "sentence": "The metro, similar to the subway, is an urban rapid transit system operating on elevated or underground tracks."
+    },
+    {
+        "word": "tube",
+        "meaning": "英国口语地下铁路",
+        "sentence": "In London, the tube is a colloquial term for the city's underground railway system."
+    },
+    {
+        "word": "four-wheel drive car",
+        "meaning": "四轮驱动车",
+        "sentence": "A four-wheel drive car is a vehicle that can power all four wheels simultaneously, providing enhanced traction."
+    },
+    {
+        "word": "tram",
+        "meaning": "有轨电车",
+        "sentence": "A tram is a rail vehicle, typically running on tracks embedded in city streets, providing local transportation."
+    },
+    {
+        "word": "shuttle bus",
+        "meaning": "往返班车",
+        "sentence": "A shuttle bus operates on a regular route, shuttling passengers between specific locations, such as airports and hotels."
+    },
+    {
+        "word": "taxi",
+        "meaning": "出租车",
+        "sentence": "A taxi is a public or private vehicle for hire, providing on-demand transportation services."
+    },
+    {
+        "word": "cab",
+        "meaning": "n. 出租汽车",
+        "sentence": "A cab, short for taxicab, is a vehicle available for hire with a driver, offering point-to-point transportation."
+    },
+    {
+        "word": "bicycle",
+        "meaning": "n. ⾃⾏⻋",
+        "sentence": "A bicycle is a two-wheeled vehicle powered by pedaling, commonly used for transportation and recreation."
+    },
+    {
+        "word": "motorcycle",
+        "meaning": "n. 摩托车",
+        "sentence": "A motorcycle is a motorized two-wheeled vehicle, typically featuring a gasoline engine."
+    },
+    {
+        "word": "caravan",
+        "meaning": "n.（可供居住的）大篷车",
+        "sentence": "A caravan is a mobile home or recreational vehicle equipped for living and travel."
+    },
+    {
+        "word": "windscreen",
+        "meaning": "n. 汽车挡风玻璃",
+        "sentence": "The windscreen, or windshield, is the front glass panel of a vehicle, protecting passengers from wind and debris."
+    },
+    {
+        "word": "wheel",
+        "meaning": "n. 车轮",
+        "sentence": "A wheel is a circular object that rotates on an axle, supporting a vehicle and enabling movement."
+    },
+    {
+        "word": "steering wheel",
+        "meaning": "方向盘",
+        "sentence": "The steering wheel is a control device in a vehicle, allowing the driver to change the direction of travel."
+    },
+    {
+        "word": "tyre",
+        "meaning": "n. [橡胶] 轮胎",
+        "sentence": "A tyre is a rubber covering around a wheel, providing traction and supporting the vehicle's weight."
+    },
+    {
+        "word": "make",
+        "meaning": "n. 制造；构造",
+        "sentence": "The make of a vehicle refers to its manufacturer or brand, indicating its origin and model."
+    },
+    {
+        "word": "brake",
+        "meaning": "n. 刹车",
+        "sentence": "Brakes are mechanical devices in a vehicle used to slow down or stop its movement, ensuring safety."
+    }
+]

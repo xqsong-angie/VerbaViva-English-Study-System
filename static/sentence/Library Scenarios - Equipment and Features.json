@@ -1,0 +1,172 @@
+[
+    {
+        "word": "Internet café",
+        "meaning": "⽹吧",
+        "sentence": "The internet café provides patrons with access to computer terminals for browsing the web, checking emails, and various online activities."
+    },
+    {
+        "word": "computer room",
+        "meaning": "计算机机房",
+        "sentence": "The computer room is equipped with multiple workstations, allowing users to engage in computer-related tasks and projects."
+    },
+    {
+        "word": "printer",
+        "meaning": "n. [计] 打印机",
+        "sentence": "Printers are essential devices for producing hard copies of digital documents, offering a tangible format for information."
+    },
+    {
+        "word": "laser printer",
+        "meaning": "[印刷] 激光印刷机",
+        "sentence": "Laser printers utilize advanced technology for high-quality and efficient printing, commonly used in both professional and personal settings."
+    },
+    {
+        "word": "copier",
+        "meaning": "n. 复印机",
+        "sentence": "Copiers provide a quick and convenient means of duplicating documents, producing copies for various purposes."
+    },
+    {
+        "word": "photocopy",
+        "meaning": "n. 复印件；影印",
+        "sentence": "A photocopy is a reproduction of a document made using a photocopier, offering an identical duplicate of the original."
+    },
+    {
+        "word": "fax machine",
+        "meaning": "传真机",
+        "sentence": "Fax machines transmit documents electronically over telephone lines, facilitating quick and direct communication."
+    },
+    {
+        "word": "laptop",
+        "meaning": "n. 笔记本电脑",
+        "sentence": "Laptops are portable computers designed for ease of use and mobility, suitable for various work and leisure activities."
+    },
+    {
+        "word": "headphone",
+        "meaning": "n. 头戴式耳机",
+        "sentence": "Headphones provide a personal audio experience, allowing users to listen to music, videos, or participate in online calls without disturbing others."
+    },
+    {
+        "word": "cassette recorder",
+        "meaning": "盒式录音机",
+        "sentence": "A cassette recorder captures audio recordings on cassette tapes, offering a retro method of audio storage and playback."
+    },
+    {
+        "word": "hardware",
+        "meaning": "n. 计算机硬件",
+        "sentence": "Computer hardware encompasses the physical components of a computer system, including the central processing unit, memory, and peripherals."
+    },
+    {
+        "word": "software",
+        "meaning": "n. 软件",
+        "sentence": "Software refers to the programs and applications that enable computers to perform specific tasks, providing functionality beyond hardware capabilities."
+    },
+    {
+        "word": "network",
+        "meaning": "n. 网络；广播网",
+        "sentence": "A network connects multiple computers, enabling them to communicate and share resources, facilitating collaborative work and data exchange."
+    },
+    {
+        "word": "social access",
+        "meaning": "无该表达",
+        "sentence": "This term appears to be undefined; please provide more context or clarify."
+    },
+    {
+        "word": "entrance",
+        "meaning": "n. 入口；进入",
+        "sentence": "The entrance is the designated point for accessing the internet café or computer room, ensuring controlled entry."
+    },
+    {
+        "word": "hard disk",
+        "meaning": "硬盘",
+        "sentence": "The hard disk is a storage device within a computer, used for storing data, applications, and the operating system."
+    },
+    {
+        "word": "keyboard",
+        "meaning": "n. 键盘",
+        "sentence": "The keyboard is an input device with keys for typing characters and commands, facilitating user interaction with the computer."
+    },
+    {
+        "word": "video",
+        "meaning": "n. [电子] 视频；录像",
+        "sentence": "Video refers to visual content displayed on a screen, including streaming media, recorded footage, or live broadcasts."
+    },
+    {
+        "word": "monitor",
+        "meaning": "n. 监视器；监听器；监控器；显示屏",
+        "sentence": "The monitor is a display screen that visually presents information from the computer, allowing users to interact with applications."
+    },
+    {
+        "word": "modem",
+        "meaning": "n. 调制解调器",
+        "sentence": "A modem connects a computer to the internet by converting digital data to analog signals for transmission over telephone lines."
+    },
+    {
+        "word": "setup",
+        "meaning": "(机器使用前的) 安装，调试",
+        "sentence": "Setup involves configuring and adjusting computer components to ensure proper functioning before use."
+    },
+    {
+        "word": "uninstall",
+        "meaning": "v. 卸载",
+        "sentence": "Uninstalling software removes it from a computer system, freeing up storage space and system resources."
+    },
+    {
+        "word": "operating system",
+        "meaning": "操作系统",
+        "sentence": "The operating system is fundamental software that manages computer hardware and provides a user interface for running applications."
+    },
+    {
+        "word": "programme",
+        "meaning": "n. 计划，规划",
+        "sentence": "In the context of computers, a program is a set of instructions that perform specific tasks when executed by the computer."
+    },
+    {
+        "word": "data processing",
+        "meaning": "数据处理",
+        "sentence": "Data processing involves organizing and manipulating data to extract meaningful information, a crucial function in computing."
+    },
+    {
+        "word": "update",
+        "meaning": "n. 更新；现代化",
+        "sentence": "An update involves installing new features, fixing bugs, or enhancing security in software or operating systems."
+    },
+    {
+        "word": "database",
+        "meaning": "n. 数据库，资料库",
+        "sentence": "A database is an organized collection of data that can be easily accessed, managed, and updated."
+    },
+    {
+        "word": "manual",
+        "meaning": "n. 手册，指南",
+        "sentence": "A manual provides guidance on using software or hardware, offering instructions and information for users."
+    },
+    {
+        "word": "password",
+        "meaning": "n. 密码；口令",
+        "sentence": "A password is a confidential code used for user authentication, protecting access to sensitive information."
+    },
+    {
+        "word": "website",
+        "meaning": "n. 网站",
+        "sentence": "A website is a collection of web pages accessible through the internet, providing information, services, or resources."
+    },
+    {
+        "word": "online",
+        "meaning": "adj. 联机的；在线的",
+        "sentence": "Being online refers to the state of being connected to the internet, allowing access to various online resources and services."
+    },
+    {
+        "word": "email",
+        "meaning": "n. 电子信函",
+        "sentence": "Email is a digital communication method used for sending and receiving messages over the internet."
+    },
+    {
+        "word": "virus",
+        "meaning": "n. [病毒] 病毒",
+        "sentence": "A computer virus is malicious software designed to infect and harm computer systems or data."
+    },
+    {
+        "word": "computer sound card",
+        "meaning": "电脑声卡",
+        "sentence": "The computer sound card is a hardware component that enables the playback and recording of audio on a computer."
+    }
+]

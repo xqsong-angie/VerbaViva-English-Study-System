@@ -1,0 +1,137 @@
+[
+    {
+        "word": "Major",
+        "meaning": "n. 主修科目",
+        "sentence": "Choosing a major is a significant decision that shapes a student's academic focus throughout their university journey."
+    },
+    {
+        "word": "Minor",
+        "meaning": "n. 副修科目；选修课程",
+        "sentence": "Many students opt to pursue a minor to gain additional expertise in a secondary field of interest."
+    },
+    {
+        "word": "Course",
+        "meaning": "n. 课程",
+        "sentence": "Each course in the curriculum is carefully designed to provide students with a specific set of skills and knowledge."
+    },
+    {
+        "word": "Specialised Course",
+        "meaning": "专业课",
+        "sentence": "Specialised courses delve deep into a particular subject area, allowing students to develop expertise in their chosen field."
+    },
+    {
+        "word": "General Course",
+        "meaning": "公共课",
+        "sentence": "General courses are designed to provide a broad foundation of knowledge, ensuring a well-rounded education."
+    },
+    {
+        "word": "Compulsory Course",
+        "meaning": "必修课",
+        "sentence": "Compulsory courses are essential components of the curriculum that all students must successfully complete."
+    },
+    {
+        "word": "Optional/Elective/Selective Course",
+        "meaning": "选修课",
+        "sentence": "Students have the flexibility to choose elective courses based on their interests and career goals."
+    },
+    {
+        "word": "Foundational/Basic Course",
+        "meaning": "基础课程",
+        "sentence": "Foundational courses lay the groundwork for advanced learning by covering fundamental concepts and principles."
+    },
+    {
+        "word": "Elementary/Primary Course",
+        "meaning": "初级课",
+        "sentence": "Elementary courses introduce students to the basics of a subject, providing a starting point for more advanced studies."
+    },
+    {
+        "word": "Intermediate/Secondary Course",
+        "meaning": "中级课",
+        "sentence": "Intermediate courses build on foundational knowledge, preparing students for more complex topics."
+    },
+    {
+        "word": "Advanced Course",
+        "meaning": "高级课程",
+        "sentence": "Advanced courses challenge students with in-depth and specialized content, often at an advanced level of difficulty."
+    },
+    {
+        "word": "Lecture",
+        "meaning": "n. 演讲；讲稿",
+        "sentence": "The professor delivered an engaging lecture on quantum physics, capturing the attention of the entire lecture hall."
+    },
+    {
+        "word": "Lecture Hall",
+        "meaning": "大讲堂；演讲厅；大教室",
+        "sentence": "The spacious lecture hall accommodates a large number of students for university lectures and presentations."
+    },
+    {
+        "word": "Slide Presentation",
+        "meaning": "幻灯；幻灯演示",
+        "sentence": "The use of visual aids in a slide presentation enhances the understanding of complex topics during lectures."
+    },
+    {
+        "word": "Visual Aids",
+        "meaning": "视觉教具",
+        "sentence": "Teachers often use visual aids such as charts and diagrams to facilitate better comprehension in the classroom."
+    },
+    {
+        "word": "Seminar",
+        "meaning": "n. 讨论会，研讨班",
+        "sentence": "The seminar provided a platform for students to engage in in-depth discussions and share their perspectives on the subject."
+    },
+    {
+        "word": "Workshop",
+        "meaning": "n. 研讨会",
+        "sentence": "The workshop focused on practical skills, allowing participants to actively engage and apply theoretical knowledge."
+    },
+    {
+        "word": "Extensive Reading",
+        "meaning": "泛读",
+        "sentence": "Engaging in extensive reading broadens students' perspectives and deepens their understanding of various topics."
+    },
+    {
+        "word": "Teamwork",
+        "meaning": "n. 团队合作",
+        "sentence": "Collaborative projects encourage teamwork, fostering effective communication and problem-solving skills among students."
+    },
+    {
+        "word": "Report",
+        "meaning": "n. 报告；报道",
+        "sentence": "Students are often required to submit a comprehensive report summarizing their findings and analysis as part of their coursework."
+    },
+    {
+        "word": "Coursework",
+        "meaning": "n. 课程作业",
+        "sentence": "The completion of coursework is an integral part of the assessment process, measuring students' understanding and application of the material."
+    },
+    {
+        "word": "Tutorial",
+        "meaning": "n. 个别指导",
+        "sentence": "Tutorials provide students with individual guidance, allowing them to clarify doubts and deepen their understanding of course content."
+    },
+    {
+        "word": "Tutor",
+        "meaning": "n. 导师；家庭教师；助教",
+        "sentence": "The tutor played a crucial role in guiding students through challenging concepts and providing additional support outside of regular lectures."
+    },
+    {
+        "word": "Project",
+        "meaning": "计划；方案；规划",
+        "sentence": "Collaborative projects encourage students to apply theoretical knowledge to real-world scenarios, enhancing their problem-solving skills."
+    },
+    {
+        "word": "Topic",
+        "meaning": "题目",
+        "sentence": "The professor introduced a thought-provoking topic that sparked lively discussions among students during the seminar."
+    },
+    {
+        "word": "Theme",
+        "meaning": "n. 主题；题目",
+        "sentence": "The theme of the workshop focused on innovation and creative thinking in problem-solving."
+    },
+    {
+        "word": "Learning Strategy",
+        "meaning": "学习策略",
+        "sentence": "Developing an effective learning strategy is crucial for students to optimize their study habits and achieve academic success."
+    }
+]
